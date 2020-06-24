@@ -35,7 +35,7 @@ social:
 superuser: false
 title: Lu Yi
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Hi! I'm not quite sure where this text is showing on the webpage,so lets check ;)

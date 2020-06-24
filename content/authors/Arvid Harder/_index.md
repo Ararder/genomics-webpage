@@ -10,11 +10,12 @@ education:
   - course: BSc in Economics
     institution: Uppsala University
     year: 2016
-email: "arvid.harder.2@ki.se"
+email: "arvid.harder@stud.ki.se"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Psychiatric genomics
+- Open Science
+- Genomic prediction
+- Causal inference
 organizations:
 - name: Karolinska Institutet
   url: ""
@@ -34,5 +35,4 @@ title: Arvid Harder
 user_groups:
 - Researchers
 ---
-
-Hi! I'm not quite sure where this text is showing on the webpage,so lets check ;)
+I'm interested in exploring how the genome predisposes individuals to psychiatric disorders, and how this predispostion interacts with environmental factors. Furthermore i'm a sucker for open science and reproductiblity,

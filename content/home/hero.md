@@ -17,6 +17,7 @@ hero_media = "liten_logga.jpeg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
+  color = "white"
 
   
   # Background image.
