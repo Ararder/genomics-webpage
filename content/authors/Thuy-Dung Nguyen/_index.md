@@ -20,7 +20,7 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
+- name: Karolinska Institutet
   url: ""
 role: PhD student
 social:

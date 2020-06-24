@@ -1,7 +1,7 @@
 ---
 authors:
-- Arvid Harder
-bio: My research interests include psychiatric genomics, genomic prediction, open science and causal inference
+- Lu Yi
+bio:
 education:
   courses:
   - course: BSc in Psychology
@@ -16,7 +16,7 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
+- name: Karolinska Institutet
   url: ""
 role: Assistant Professor
 social:
@@ -38,4 +38,3 @@ user_groups:
 - Principal Investigator
 ---
 
-Hi! I'm not quite sure where this text is showing on the webpage,so lets check ;)
