@@ -19,15 +19,9 @@ organizations:
   url: ""
 role: Research Assistant
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/ying-xiong-20ab97191/
 superuser: true
 title: Ying Xiong
 user_groups:
