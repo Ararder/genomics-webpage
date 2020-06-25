@@ -1,8 +1,7 @@
 ---
 authors:
 - Ying Xiong
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:
 education:
   courses:
   - course: MSc in Public Health Sciences - Epidemiology
@@ -11,11 +10,10 @@ education:
   - course: BSc in Public Health Sciences - Epidemiology
     institution: Sichuan University
     year: 2018
-email: ""
+email: "ying.xiong@stud.ki.se"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Genetic Epidemiology
+- Psychiatric Disorders
 organizations:
 - name: Karolinska Institutet
   url: ""
@@ -27,9 +25,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -39,4 +34,4 @@ user_groups:
 - Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm exploring my research interests in genetic epidemiology and psychiatric disorders. In my spare time, I like reading, traveling and playing with dogs. I also like bubble milk tea and spicy food

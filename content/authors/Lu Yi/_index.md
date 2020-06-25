@@ -4,12 +4,15 @@ authors:
 bio:
 education:
   courses:
-  - course: BSc in Psychology
-    institution: Karolinska Institutet
-    year: 2020
-  - course: BSc in Economics
+  - course: PhD in Statistical Genetics
+    institution: The University of Queensland
+    year: 2013
+  - course: MSc in Statistics
     institution: Uppsala University
-    year: 2016
+    year: 2008
+  - course: MSc in Statistics
+    institution: Dalarna University
+    year: 2007
 email: "lu.yi@ki.se"
 interests:
 - Artificial Intelligence
