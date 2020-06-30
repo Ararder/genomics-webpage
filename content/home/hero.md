@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "MDD Lab at Karolinska Institute"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "liten_logga.jpeg"
+hero_media = "ki_logo.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,7 +17,7 @@ hero_media = "liten_logga.jpeg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "white"
+  color = "black"
 
   
   # Background image.
@@ -28,7 +28,7 @@ hero_media = "liten_logga.jpeg"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
   
 
 # Call to action links (optional).
